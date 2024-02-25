@@ -22,14 +22,14 @@ Real-time Analytics: Gain valuable insights into your business performance with 
 Streamlined Operations: Automate repetitive tasks and streamline your workflow for maximum efficiency. From order processing to inventory management, FactoryForge simplifies complex processes, saving you time and resources.
 
 ### Technologies Used
-Python
-JavaScript
-Django
-React
-Redux
-JWT (JSON Web Tokens)
-PostgreSQL
-Charts.js
+Python,
+JavaScript,
+Django,
+React,
+Redux,
+JWT (JSON Web Tokens),
+PostgreSQL,
+Charts.js.
 
 
 ### Getting Started
