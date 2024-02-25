@@ -23,21 +23,22 @@ Real-time Analytics: Gain valuable insights into your business performance with 
 
 Streamlined Operations: Automate repetitive tasks and streamline your workflow for maximum efficiency. From order processing to inventory management, FactoryForge simplifies complex processes, saving you time and resources.
 
-### Documentation
+
 ### 1. Dashboard
 <img width="1528" alt="Dashboard" src="https://github.com/janishiestand/FactoryForge/assets/100535567/79f21f90-8b5a-46d2-8233-54bb5f4c01dc">
-*Caption: This screenshot shows the dashboard of FactoryForge, providing an overview of key metrics and performance indicators.*
+The dashboard provides an overview of key metrics and performance indicators.
 
 ### 2. Inventory
 <img width="1372" alt="Inventory" src="https://github.com/janishiestand/FactoryForge/assets/100535567/1db642d8-d834-490f-8494-3868f6640712">
+The inventory is where users can add, edit, and track their products and raw materials.
 
 ### 3. Orders
 <img width="1368" alt="Orders" src="https://github.com/janishiestand/FactoryForge/assets/100535567/c04bcfd7-8b8f-46cc-906f-7db9cdb79421">
+The order management system of FactoryForge allows users to create, manage, and track client orders efficiently.
 
 ### 4. Analytics
 <img width="1170" alt="Analytics" src="https://github.com/janishiestand/FactoryForge/assets/100535567/afdd05d5-2254-4365-a173-b14e42648415">
-
-
+The analytics dashboard of FactoryForge provides users with real-time insights into their business performance, helping them make informed decisions.
 
 ### Technologies Used
 Python,
