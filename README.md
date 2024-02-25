@@ -1,6 +1,8 @@
 # FactoryForge
+
 ### Introduction
 FactoryForge is a comprehensive resource management application designed specifically for start-up businesses. It offers an all-in-one solution for managing inventory, orders, analytics, and operations, streamlining the workflow and boosting productivity.
+
 
 ### Motivation
 FactoryForge was born out of the desire to simplify and streamline the operations of independent business owners and start-ups.
@@ -12,6 +14,7 @@ Our focus lies in providing scalability and versatility, ensuring that FactoryFo
 Regardless of the niche or industry, FactoryForge empowers users to manage raw materials, products, orders, analytics, and more.
 Our customizable platform allows users to tailor their experience to suit their specific needs, providing the flexibility they need to thrive in their business endeavors.
 
+
 ### Key Features
 Inventory Management: Keep track of all your products and raw materials with ease. Add new items, monitor stock levels, and receive low-stock alerts to ensure you never run out of essential supplies.
 
@@ -20,6 +23,7 @@ Order Management: Manage client orders and raw material orders efficiently. Crea
 Real-time Analytics: Gain valuable insights into your business performance with detailed analytics and statistics. Monitor revenue, track top-selling products, and identify trends to make informed business decisions.
 
 Streamlined Operations: Automate repetitive tasks and streamline your workflow for maximum efficiency. From order processing to inventory management, FactoryForge simplifies complex processes, saving you time and resources.
+
 
 ### Technologies Used
 Python,
