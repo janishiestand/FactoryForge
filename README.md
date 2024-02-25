@@ -3,7 +3,7 @@
 FactoryForge is a comprehensive resource management application designed specifically for start-up businesses. It offers an all-in-one solution for managing inventory, orders, analytics, and operations, streamlining the workflow and boosting productivity.
 
 ### Motivation
-FactoryForge was born out of the need to simplify and streamline the operations of independent business owners and start-ups.
+FactoryForge was born out of the desire to simplify and streamline the operations of independent business owners and start-ups.
 The inspiration stemmed from observing individuals managing their businesses on social media platforms and recognizing the complexities involved in handling inventory, orders, and more.
 
 With FactoryForge, we aim to address this challenge by offering an all-in-one solution with an intuitive user interface and a structured system.
