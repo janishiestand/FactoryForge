@@ -14,8 +14,6 @@ Our focus lies in providing scalability and versatility, ensuring that FactoryFo
 Regardless of the niche or industry, FactoryForge empowers users to manage raw materials, products, orders, analytics, and more.
 Our customizable platform allows users to tailor their experience to suit their specific needs, providing the flexibility they need to thrive in their business endeavors.
 
-<img width="1528" alt="Dashboard" src="https://github.com/janishiestand/FactoryForge/assets/100535567/b3caf2e7-e6f0-4226-859a-4f4e708c847b">
-
 ### Key Features
 Inventory Management: Keep track of all your products and raw materials with ease. Add new items, monitor stock levels, and receive low-stock alerts to ensure you never run out of essential supplies.
 
@@ -25,7 +23,15 @@ Real-time Analytics: Gain valuable insights into your business performance with 
 
 Streamlined Operations: Automate repetitive tasks and streamline your workflow for maximum efficiency. From order processing to inventory management, FactoryForge simplifies complex processes, saving you time and resources.
 
-<img width="1368" alt="Orders" src="https://github.com/janishiestand/FactoryForge/assets/100535567/d3fc4874-56a6-44e1-8d3d-eb1bce4b3102">
+1. Dashboard
+<img width="1528" alt="Dashboard" src="https://github.com/janishiestand/FactoryForge/assets/100535567/79f21f90-8b5a-46d2-8233-54bb5f4c01dc">
+*Caption: This screenshot shows the dashboard of FactoryForge, providing an overview of key metrics and performance indicators.*
+
+<img width="1372" alt="Inventory" src="https://github.com/janishiestand/FactoryForge/assets/100535567/1db642d8-d834-490f-8494-3868f6640712">
+<img width="1368" alt="Orders" src="https://github.com/janishiestand/FactoryForge/assets/100535567/c04bcfd7-8b8f-46cc-906f-7db9cdb79421">
+<img width="1170" alt="Analytics" src="https://github.com/janishiestand/FactoryForge/assets/100535567/afdd05d5-2254-4365-a173-b14e42648415">
+
+
 
 ### Technologies Used
 Python,
@@ -36,8 +42,6 @@ Redux,
 JWT (JSON Web Tokens),
 PostgreSQL,
 Charts.js.
-
-<img width="1372" alt="Inventory" src="https://github.com/janishiestand/FactoryForge/assets/100535567/4e59e5dd-0fe6-4970-b0b2-36f0f1b16446">
 
 
 ### Getting Started
