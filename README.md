@@ -15,17 +15,8 @@ Regardless of the niche or industry, FactoryForge empowers users to manage raw m
 Our customizable platform allows users to tailor their experience to suit their specific needs, providing the flexibility they need to thrive in their business endeavors.
 
 <article class="example gallery-cols-3">
-    <figure>
-        <img src="ttps://github.com/janishiestand/FactoryForge/assets/100535567/831c36ad-700a-45ce-a474-8a8b706c12ea" alt="Image 1">
-        <figcaption>Image 1</figcaption>
-    </figure>
-    <figure>
-        <a href="http://example.com/image2_big.jpg"><img src="http://example.com/image2.jpg" alt="Image 2">
-        <figcaption>Image 2</figcaption></a>
-    </figure>
-    <figure>
-        <img src="http://example.com/image3.jpg" alt="">
-    </figure>
+    <img width="1528" alt="Dashboard" src="https://github.com/janishiestand/FactoryForge/assets/100535567/b3caf2e7-e6f0-4226-859a-4f4e708c847b">
+
 </article>
 
 ### Key Features
