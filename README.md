@@ -50,3 +50,9 @@ npm install
 Start the development server:
 npm start
 Open your browser and navigate to localhost to access the application.
+
+
+### Team Members
+FactoryForge was developed by Janis Hiestand and Luca Oliverio.
+Janis Hiestand: https://github.com/janishiestand
+Luca Oliverio
