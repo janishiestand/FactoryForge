@@ -54,17 +54,18 @@ Charts.js.
 ### Getting Started
 To get started with FactoryForge, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
 git clone https://github.com/your-username/FactoryForge.git
 
-
-Install dependencies:
+2. Install dependencies:
 cd FactoryForge
 npm install
 
-Start the development server:
+3. Start the development server:
 npm start
-Open your browser and navigate to localhost to access the application.
+
+4. Access the Application:
+Open your preferred web browser and navigate to localhost to access the Motion application.
 
 
 ### Team Members
