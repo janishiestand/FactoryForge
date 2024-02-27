@@ -48,8 +48,10 @@ React,
 Redux,
 JWT (JSON Web Tokens),
 PostgreSQL,
-Charts.js.
+Charts.js,
+Gitlab.
 
+IDEs: PyCharm, VSCode.
 
 ### Getting Started
 To get started with FactoryForge, follow these steps:
