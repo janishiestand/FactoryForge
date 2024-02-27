@@ -15,13 +15,13 @@ Regardless of the niche or industry, FactoryForge empowers users to manage raw m
 Our customizable platform allows users to tailor their experience to suit their specific needs, providing the flexibility they need to thrive in their business endeavors.
 
 ### Key Features
-Inventory Management: Keep track of all your products and raw materials with ease. Add new items, monitor stock levels, and receive low-stock alerts to ensure you never run out of essential supplies.
+1. Inventory Management: Keep track of all your products and raw materials with ease. Add new items, monitor stock levels, and receive low-stock alerts to ensure you never run out of essential supplies.
 
-Order Management: Manage client orders and raw material orders efficiently. Create, update, and track orders from initiation to fulfillment, ensuring timely delivery and customer satisfaction.
+2. Order Management: Manage client orders and raw material orders efficiently. Create, update, and track orders from initiation to fulfillment, ensuring timely delivery and customer satisfaction.
 
-Real-time Analytics: Gain valuable insights into your business performance with detailed analytics and statistics. Monitor revenue, track top-selling products, and identify trends to make informed business decisions.
+3. Real-time Analytics: Gain valuable insights into your business performance with detailed analytics and statistics. Monitor revenue, track top-selling products, and identify trends to make informed business decisions.
 
-Streamlined Operations: Automate repetitive tasks and streamline your workflow for maximum efficiency. From order processing to inventory management, FactoryForge simplifies complex processes, saving you time and resources.
+4. Streamlined Operations: Automate repetitive tasks and streamline your workflow for maximum efficiency. From order processing to inventory management, FactoryForge simplifies complex processes, saving you time and resources.
 
 
 ### 1. Dashboard
@@ -71,4 +71,4 @@ Open your preferred web browser and navigate to localhost to access the Motion a
 ### Team Members
 FactoryForge was developed by Janis Hiestand and Luca Oliverio.
 #### Janis Hiestand: https://github.com/janishiestand
-#### Luca Oliverio:
+#### Luca Oliverio: https://github.com/khilaar
